@@ -12,3 +12,16 @@
 h1, h2, h3, h4, h5 {
 	color: #8382BF;
 }
+
+
+.friend{
+	width: 30%;
+	margin: auto;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.13);
+	margin: 15px;
+	padding: 7px;
+}
+
+.friend h1{
+	font-size: 1.5em;
+}
